@@ -2,7 +2,7 @@ import './App.css'
 
 function Hero({title, description, mainText, subText, image}: {title: string, description: string, mainText: string, subText: string, image: string}) {
   return (
-        <section className='hero'>
+        <section id='hero'>
             <div className='hero-content'>
                <h1>{title}</h1>
                <p>{description}</p>
