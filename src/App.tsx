@@ -11,7 +11,7 @@ function App() {
         description="Practice your frontend skills with React and build amazing web applications. 🚀"
         mainText="Get Started"
         subText="Learn More"
-        image="src\assets\2.jpg"
+        image="src/assets/2.jpg"
        />
       </div>
     </>
