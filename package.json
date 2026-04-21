@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://roi-77.github.io/Hero/",
+  "homepage": "https://{Roi-77}.github.io/{https://github.com/Roi-77/Hero.git}",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
