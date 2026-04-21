@@ -21,9 +21,9 @@ Import and use the component in your project:
 ## API Reference
 - `title` (string): Main heading text.
 - `subtitle` (string, optional): Secondary text.
-- `backgroImage` (string): URL of background image.
+- `Image` (string): URL of background image.
 - `ctaText` (string): Call-to-action button text.
-- `onCtaClick` (function): Handler for button click.
+- `onClick` (string): Handler for button click.
 
 ## Contributing
 Fork the repository and submit a pull request with your improvements.
