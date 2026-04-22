@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>
+      
        <Hero 
         title="FrontEnd Practice with React"
         description="Practice your frontend skills with React and build amazing web applications. 🚀"
@@ -14,7 +14,7 @@ function App() {
         subText="Learn More"
         image={images}
        />
-      </div>
+      
     </>
   );
 }
