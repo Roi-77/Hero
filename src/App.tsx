@@ -8,10 +8,10 @@ function App() {
     <>
       
        <Hero 
-        title="FrontEnd Practice with React"
-        description="Practice your frontend skills with React and build amazing web applications. 🚀"
-        mainText="Get Started"
-        subText="Learn More"
+        title="Master Frontend Development with Real React Projects"
+        description="Build responsive, modern interfaces with hands-on React challenges designed to improve your skills fast 🚀."
+        mainText="Start Practicing"
+        subText="View Projects"
         image={images}
        />
       
