@@ -5,7 +5,7 @@ import images from './assets/2.jpg'
 function App() {
 
   return (
-    <>
+    <main>
       
        <Hero 
         title="Master Frontend Development with Real React Projects"
@@ -15,7 +15,7 @@ function App() {
         image={images}
        />
       
-    </>
+    </main>
   );
 }
 
